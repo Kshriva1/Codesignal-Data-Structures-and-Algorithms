@@ -5,8 +5,9 @@ You are given an n x n 2D matrix that represents an image. Rotate the image by 9
 Example
 
 For
+a = 
 
-a = [[1, 2, 3],
+    [[1, 2, 3],
 
      [4, 5, 6],
      
